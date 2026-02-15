@@ -1,6 +1,6 @@
 # Analyze pdac-t2d pleiotropy data.
 # Running this code with the associated data
-# (provided in https://odin.mdacc.tmc.edu/~rsun3/pdac_t2d/)
+# (provided in https://odin.mdacc.tmc.edu/~rsun3/pdac_t2d_reproduce/)
 # will reproduce results in our paper.
 
 library(data.table)
